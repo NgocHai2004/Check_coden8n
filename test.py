@@ -4,4 +4,4 @@ def tinh_tong(a, b):
     return ket_qua
 
 # Gọi hàm với một số và một chuỗi
-print(tinh_tong(10, "10"))
+print(tinh_tong(9, "10"))
